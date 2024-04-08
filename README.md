@@ -7,7 +7,7 @@
 </p>
 
 -  My areas of interest are  Systems Programming, Competitive programming, Data Structures and Algorithms.
--  My background is in modeling and simulation, microservices and ui development.
+-  My background is in modeling and simulation, microservices, large scale distributed systems and ui development.
 -  I'm currently working on my project: [Cyrus](https://github.com/BreeDurbin/cyrus)
 
 <h3 align="left">Languages and Tools:</h3>
