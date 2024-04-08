@@ -2,7 +2,7 @@
 ### 🌐 Connect with me 
 <code><a href="https://www.linkedin.com/in/BreeDurbin/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 
-<img src= "https://github-readme-stats-zo1g.vercel.app/api?username=BreeDurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
+
 
 
 
@@ -26,6 +26,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=breedurbin&show_icons=true&locale=en&layout=compact" alt="breedurbin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=breedurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=truelocale=en&layout=compact" alt="breedurbin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=breedurbin&show_icons=true&locale=en" alt="breedurbin" /></p>
+<img src= "https://github-readme-stats-zo1g.vercel.app/api?username=BreeDurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
