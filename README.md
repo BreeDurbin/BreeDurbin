@@ -1,21 +1,10 @@
 
-### 🌐 Connect with me 
-<code><a href="https://www.linkedin.com/in/BreeDurbin/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-
+<h1 align="center">Hi 👋, I'm Bree Durbin</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/breedurbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breedurbin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/breedurbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="breedurbin" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Bree Durbin</h1>
 
 -  My areas of interest are  Systems Programming, Competitive programming, Data Structures and Algorithms. My background is in modeling and simulation, microservices and ui development.
 -  I'm currently working on my project: [Cyrus](https://github.com/BreeDurbin/cyrus)
