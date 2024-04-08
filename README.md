@@ -16,4 +16,4 @@
 ### 🌐 Connect with me 
 <code><a href="https://www.linkedin.com/in/BreeDurbin/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 
-![Bree's GitHub stats](https://github-readme-stats-ivory-two-72.vercel.app/api?username=BreeDurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true)
+<img=https://github-readme-stats-ivory-two-72.vercel.app/api?username=BreeDurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true>
