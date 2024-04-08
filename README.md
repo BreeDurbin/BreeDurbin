@@ -13,11 +13,7 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 
-
 ### 🌐 Connect with me 
 <code><a href="https://www.linkedin.com/in/BreeDurbin/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="mailto:sayamustfight@proton.me"><img width="40px" src="[https://img.icons8.com/fluent/48/000000/proton.png](https://icons8.com/icon/3jCrDJqXpwHU/protonmail)" title="Email"/></a></code>
-
-
 
  <img src = "https://github-readme-stats-ivory-two-72.vercel.app/api?username=BreeDurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
