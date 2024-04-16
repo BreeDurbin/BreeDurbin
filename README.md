@@ -15,4 +15,4 @@
 
 
 <img height=200 align="left" src= "https://github-readme-stats-zo1g.vercel.app/api?username=BreeDurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true&locale=en">
-<p><img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=breedurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true&locale=en&layout=compact&card_width=320" alt="breedurbin" /></p>
+<p><img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=breedurbin&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true&locale=en&layout=compact" alt="breedurbin" /></p>
