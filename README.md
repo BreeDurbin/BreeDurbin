@@ -6,7 +6,6 @@
 <a href="https://www.leetcode.com/breedurbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="breedurbin" height="30" width="40" /></a>
 </p>
 
--  My areas of interest are  Systems Programming, Competitive programming, Data Structures and Algorithms.
 -  My background is in modeling and simulation, microservices, large scale distributed systems and ui development.
 -  I'm currently working on my project: [<img src="./CYRUS_BANNER_TINY.png">](https://github.com/BreeDurbin/cyrus)
 
